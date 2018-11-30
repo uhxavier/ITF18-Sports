@@ -1,0 +1,6 @@
+#put your code above this
+gameplays=10
+while gameplays != 10: 
+  print(gameplays, end=" ")
+  gameplays=-1
+  print("You have",gameplays,"left!") 
