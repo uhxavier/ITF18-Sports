@@ -1,0 +1,7 @@
+#Each Quarter would be 
+print("You will have 10 plays before the opponents turn!")
+gameplays = 10
+while gameplays <= 10: 
+  print("You have", gameplays, "plays left!") 
+  gameplays = gameplays - 1
+  if gameplays == 0:break
